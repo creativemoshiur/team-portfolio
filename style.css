@@ -1,14 +1,17 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .name {
     color: orange;
+
+
 }
 
 section {
@@ -21,7 +24,7 @@ section {
 }
 
 .half-width img {
-    width: 80%;
+    width: 70%;
     padding-left: 15px;
     padding-top: 20px;
 }
@@ -32,4 +35,10 @@ section {
     padding: 10px 40px;
     border-radius: 20px;
     background-image: linear-gradient(maroon, red);
+}
+
+.first {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
 }
