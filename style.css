@@ -16,17 +16,17 @@ h1 {
 
 section {
     display: flex;
+
 }
 
 .half-width {
     width: 50%;
-    padding: 3%;
+    padding-left: 3%;
 }
 
 .half-width img {
     width: 70%;
-    padding-left: 15px;
-    padding-top: 20px;
+
 }
 
 .link-button {
@@ -41,4 +41,17 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+.secondimg img {
+    width: 100%;
+    padding-left: 40%;
+
+}
+
+.sec {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 50px;
 }
