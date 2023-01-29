@@ -97,6 +97,7 @@ footer {
 
     text-align: center;
     margin-top: 50px;
+    text-decoration: none;
 }
 
 #expr {
@@ -105,4 +106,8 @@ footer {
 
 #maruf {
     padding-right: 10%;
+}
+
+.footer-button {
+    text-decoration: none;
 }
